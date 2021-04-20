@@ -1,0 +1,24 @@
+#pageTitle {
+    text-align: center;
+}
+
+#pizzaImage {
+    max-width: 100%;
+    height: auto;
+    width: auto\9;
+}
+
+#homeText {
+    text-align: center;
+}
+
+#navBar {
+    display: flex;
+    justify-content: center;
+}
+
+.navButton {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
